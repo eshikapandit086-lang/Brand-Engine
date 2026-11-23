@@ -1,0 +1,8 @@
+{
+  "name": "Brand Engine",
+  "description": "A clean, modern workspace for generating startup launch kits, including landing page hooks, launch emails, and viral social media posts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
